@@ -1,0 +1,9 @@
+Written Analysis
+From the data we can see that charter schools have a significantly higher percentage of students passing maths, reading and students passing both, when compared to district schools.
+Charter schools on average have 90.43% of students passing overall, while the average percentage for district schools is only 53.67%. 
+The top five performing schools are all charter schools, while the bottom five are all district schools. 
+
+There is also a correlation between school size and the performance of the students; with small schools performing much better than larger ones.
+
+However, there is an inverse correlation with per student spending and performance. 
+Schools which spent less per student had a higher percentage of students passing. This may indicate that school size is more impactful than budget on the performance of students.
